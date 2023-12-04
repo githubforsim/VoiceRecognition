@@ -50,3 +50,14 @@ D:\Codes\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.GenerateResource.cac
 D:\Codes\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.CoreCompileInputs.cache
 D:\Codes\VoiceRecognition\obj\Debug\VoiceRecognition.exe
 D:\Codes\VoiceRecognition\obj\Debug\VoiceRecognition.pdb
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\bin\Debug\VoiceRecognition.exe.config
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\bin\Debug\VoiceRecognition.exe
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\bin\Debug\VoiceRecognition.pdb
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.csproj.AssemblyReference.cache
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.Form1.resources
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.Properties.Resources.resources
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.csproj.GenerateResource.cache
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.exe
+C:\Users\aokom\Desktop\Boulo\Git\VoiceRecognition\BasicVoiceRecognition\obj\Debug\VoiceRecognition.pdb
