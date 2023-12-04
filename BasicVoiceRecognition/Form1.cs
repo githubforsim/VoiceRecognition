@@ -104,7 +104,7 @@ namespace VoiceRecognition
 
         private void PythonResult(string result)
         {
-            if (_isOn)
+            if (_isOn && result != "")
                 logCtrl.Items.Add(result);
         }
 
