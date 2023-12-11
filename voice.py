@@ -2,9 +2,10 @@ import vosk
 import pyaudio
 import json
 import socket
+import argparse
 
-def reconnaissance_vocale_vosk():
-    model = vosk.Model("./Model")
+def reconnaissance_vocale_vosk(model_path):
+    model = vosk.Model(model_path)
 
     recognizer = vosk.KaldiRecognizer(model, 16000)
 
@@ -36,7 +37,11 @@ def reconnaissance_vocale_vosk():
 
 if __name__ == "__main__":
     try:
-        reconnaissance_vocale_vosk()
+        parser = argparse.ArgumentParser(description='Script de reconnaissance vocal')
+        parser.add_argument('model', type=str, help='path of model')
+
+        args = parser.parse_args()
+        reconnaissance_vocale_vosk(args.model)
     except:
         print("Something went wrong")
     t = input("wait")

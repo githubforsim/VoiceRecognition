@@ -35,6 +35,8 @@ namespace VoiceRecognition
             string voiceExePath = Path.Combine(Application.StartupPath, "..", "..", "..", "Voice EXE", "voice.exe");
             _voiceProcess = new Process();
             _voiceProcess.StartInfo.FileName = voiceExePath;
+            var path = "../../../Model";
+            _voiceProcess.StartInfo.Arguments = $"\"{path}\"";
 
             try
             {
